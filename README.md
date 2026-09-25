@@ -191,6 +191,23 @@ class MuneebAsghar:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F3460,50:1F3864,100:A259FF&height=4&width=1000" width="100%">
 
+<!-- ████████████████████ DATA ANALYSIS PROJECTS ████████████████████ -->
+
+## 📊 Data Analysis & BI Projects
+
+<div align="center">
+
+| Project | Focus | Link |
+|---|---|---|
+| 🏆 **EDA – FIFA Analysis** | Exploratory data analysis on FIFA player/team data | [Repo](https://github.com/Munib796/EDA-FIFA-Analysis) |
+| 🏥 **EDA – Healthcare Analysis** | Exploratory data analysis on healthcare datasets | [Repo](https://github.com/Munib796/EDA-Healthcare-Analysis) |
+| 🛍️ **EDA – Retail Sales Analysis** | Exploratory data analysis on retail sales data | [Repo](https://github.com/Munib796/EDA-Retail-Sales-Analysis) |
+| 📈 **Power BI – Retail Sales Dashboard** | Interactive BI dashboard for retail sales metrics | [Repo](https://github.com/Munib796/PowerBI-Retail-Sales-Dashboard) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F3460,50:1F3864,100:A259FF&height=4&width=1000" width="100%">
+
 <!-- ████████████████████ EXPERIENCE & CERTIFICATIONS ████████████████████ -->
 
 ## Experience & Certifications
