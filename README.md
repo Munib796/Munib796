@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- ████████████████████ ANIMATED HERO ████████████████████ -->
 <div align="center">
