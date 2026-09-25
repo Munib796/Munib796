@@ -1,7 +1,8 @@
 <!-- ████████████████████ ANIMATED HERO ████████████████████ -->
 <div align="center">
 
-<h1>Muneeb Asghar</h1><br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=A259FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Muneeb+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80;Full+Stack+%2B+AI+Developer;Let's+build+something+great!" alt="Typing SVG" />
+
 <h3>Final-Year Software Engineering Student • Full Stack Developer • AI Integration (Agentic AI & RAG)</h3>
 
 <br>
